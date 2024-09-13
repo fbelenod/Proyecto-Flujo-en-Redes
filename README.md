@@ -8,3 +8,6 @@ El enfoque del proyecto utiliza modelos de flujo de redes, los cuales permiten r
 Al integrar la programación y los horarios de manera óptima, este proyecto pretende reducir la cantidad de autobuses necesarios para cubrir la demanda, disminuir los costos de operación y mejorar la puntualidad, lo que, en última instancia, beneficia tanto a los operadores como a los pasajeros. Los resultados del proyecto podrían ser aplicables a diferentes sistemas de transporte en áreas metropolitanas, contribuyendo a soluciones sostenibles y eficientes que mejoren la calidad del servicio en el transporte público.
 
 Con esta investigación se espera aportar nuevas herramientas para la planificación de sistemas de transporte más eficientes y resilientes.
+
+
+La estructura del repositorio se compone de los archivos que se suban con su respectivo número de entrega y la actualización constante del READ.me en donde diremos que se ha hecho, mostraremos resultados y referenciaremos los archivos que soporten nuestros resultados, integraciones o avances del proyecto.
