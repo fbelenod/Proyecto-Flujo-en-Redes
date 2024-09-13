@@ -11,3 +11,6 @@ Con esta investigación se espera aportar nuevas herramientas para la planificac
 
 ## Estructura
 La estructura del repositorio se compone de los archivos que se suban con su respectivo número de entrega y la actualización constante del READ.me en donde diremos que se ha hecho, mostraremos resultados y referenciaremos los archivos que soporten nuestros resultados, integraciones o avances del proyecto.
+
+### Entrega 1
+LINK del paper: https://www.overleaf.com/project/66e47cf0bbdd25e2d97e2841
