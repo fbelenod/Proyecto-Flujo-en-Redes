@@ -9,5 +9,5 @@ Al integrar la programación y los horarios de manera óptima, este proyecto pre
 
 Con esta investigación se espera aportar nuevas herramientas para la planificación de sistemas de transporte más eficientes y resilientes.
 
-
+## Estructura
 La estructura del repositorio se compone de los archivos que se suban con su respectivo número de entrega y la actualización constante del READ.me en donde diremos que se ha hecho, mostraremos resultados y referenciaremos los archivos que soporten nuestros resultados, integraciones o avances del proyecto.
