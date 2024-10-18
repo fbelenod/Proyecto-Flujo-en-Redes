@@ -19,3 +19,5 @@ LINK del paper: https://www.overleaf.com/project/66e47cf0bbdd25e2d97e2841
 LINK del paper: https://www.overleaf.com/project/66e47cf0bbdd25e2d97e2841
 Nota: Es el mismo link de la entrega 1 pero actualizado con las correcciones y requerimientos de esta entrega.
 Archivo del código:
+
+Codigo preliminar del modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/codigo%20preliminar%20sin%20correr.py
