@@ -21,3 +21,5 @@ Nota: Es el mismo link de la entrega 1 pero actualizado con las correcciones y r
 Archivo del código:
 
 Codigo preliminar del modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/codigo%20preliminar%20sin%20correr.py
+
+Documento metodologia: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/Entrega%202%20Metodolog%C3%ADa.pdf
