@@ -14,3 +14,8 @@ La estructura del repositorio se compone de los archivos que se suban con su res
 
 ### Entrega 1
 LINK del paper: https://www.overleaf.com/project/66e47cf0bbdd25e2d97e2841
+
+### Entrega 2
+LINK del paper: https://www.overleaf.com/project/66e47cf0bbdd25e2d97e2841
+Nota: Es el mismo link de la entrega 1 pero actualizado con las correcciones y requerimientos de esta entrega.
+Archivo del código:
