@@ -28,7 +28,7 @@ Documento metodologia: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/
 Link paper: https://es.overleaf.com/project/66e47cf0bbdd25e2d97e2841
 Nota: Es el mismo link de la entrega 1 y 2 pero actualizado con las correcciones y requerimientos de esta entrega.
 
-Codigo implementacion modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/CodigoProyectoRedes%20(2).ipynb
+Codigo implementacion modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/CodigoProyectoRedes%20(3).ipynb
 
 Codigo graficos: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/GraficasCodigo.ipynb
 
