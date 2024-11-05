@@ -36,4 +36,4 @@ Datos de las demandas: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/
 
 Resultados modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/resultados_rutas.xlsx
 
-Documento paper con analisis: 
+Documento paper con analisis: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/DocumentoEntrega3.pdf
