@@ -23,3 +23,17 @@ Archivo del código:
 Codigo preliminar del modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/codigo%20preliminar%20sin%20correr.py
 
 Documento metodologia: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/Entrega%202%20Metodolog%C3%ADa.pdf
+
+### Entrega 3
+Link paper: https://es.overleaf.com/project/66e47cf0bbdd25e2d97e2841
+Nota: Es el mismo link de la entrega 1 y 2 pero actualizado con las correcciones y requerimientos de esta entrega.
+
+Codigo implementacion modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/CodigoProyectoRedes.ipynb
+
+Codigo graficos: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/GraficasCodigo.ipynb
+
+Datos de las demandas: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/resultados_rutas.xlsx
+
+Resultados modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/resultados_rutas.xlsx
+
+Documento paper con analisis: 
