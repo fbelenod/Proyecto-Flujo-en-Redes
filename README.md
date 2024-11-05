@@ -33,6 +33,7 @@ Codigo implementacion modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Rede
 Codigo graficos: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/GraficasCodigo.ipynb
 
 Datos de las demandas: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/Demandas_paraderos.xlsx
+Nota: Al ejecutar el modelo cambiar el nombre del archivo a info.xlsx o cambiar desde el codigo
 
 Resultados modelo: https://github.com/fbelenod/Proyecto-Flujo-en-Redes/blob/main/resultados_rutas.xlsx
 
